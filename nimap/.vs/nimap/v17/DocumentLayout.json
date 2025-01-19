@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jp893\\source\\repos\\nimap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|c:\\users\\jp893\\source\\repos\\nimap\\nimap\\nimap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44121061-B537-4496-9530-BCFF336F8242}|nimap\\nimap.csproj|solutionrelative:nimap\\nimap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T18:53:00.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T18:52:59.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T18:52:57.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "nimap\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T18:52:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "nimap\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "nimap\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:20:55.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "nimap\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "nimap\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:30:49.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:57:08.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:59:42.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "nimap\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "nimap\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:15:29.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "nimap\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "nimap\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAUwHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:32:28.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "nimap\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "nimap\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:36:32.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "nimap\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "nimap\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:25:40.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "nimap\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "nimap\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:20:01.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "nimap\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Models\\Product.cs",
+              "RelativeToolTip": "nimap\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:14:41.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "nimap\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Models\\Category.cs",
+              "RelativeToolTip": "nimap\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:14:07.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Program.cs",
+              "RelativeDocumentMoniker": "nimap\\Program.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Program.cs",
+              "RelativeToolTip": "nimap\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:44:29.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\appsettings.json",
+              "RelativeDocumentMoniker": "nimap\\appsettings.json",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\appsettings.json",
+              "RelativeToolTip": "nimap\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T14:13:12.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:58:35.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "nimap\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "nimap\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:54:24.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:57:51.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T15:00:16.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T15:00:53.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:43:58.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "nimap\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "nimap\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:43:19.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "nimap.csproj",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\nimap.csproj",
+              "RelativeDocumentMoniker": "nimap\\nimap.csproj",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\nimap\\nimap\\nimap.csproj",
+              "RelativeToolTip": "nimap\\nimap.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T14:18:16.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

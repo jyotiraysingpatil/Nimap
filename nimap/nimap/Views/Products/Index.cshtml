@@ -1,0 +1,36 @@
+﻿@model IEnumerable<nimap.Models.Product>
+
+<h2>Products</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Category</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.Category.CategoryName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    Page @(ViewBag.Page) of @(ViewBag.TotalPages)
+    <a asp-action="Index" asp-route-page="@(ViewBag.Page - 1)" asp-route-pageSize="@(ViewBag.PageSize)" class="@(ViewBag.Page == 1 ? "disabled" : "")">Previous</a>
+    <a asp-action="Index" asp-route-page="@(ViewBag.Page + 1)" asp-route-pageSize="@(ViewBag.PageSize)" class="@(ViewBag.Page == ViewBag.TotalPages ? "disabled" : "")">Next</a>
+</div>
